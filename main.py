@@ -6,7 +6,7 @@ from mpl_toolkits.mplot3d import Axes3D
 from matplotlib.patches import Polygon
 
 # Wczytanie danych
-data = np.loadtxt("136684.dat", delimiter="\t")
+data = np.loadtxt("data.dat", delimiter="\t")
 x, y, z = data[:, 0], data[:, 1], data[:, 2]
 
 # Tworzenie siatki
