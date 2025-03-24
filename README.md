@@ -28,7 +28,7 @@ Projekt zaliczeniowy z przedmiotu **Algorytmy numeryczne**. Skrypt wykonuje anal
   - **Metoda trapezów**
 
 ### Pochodne i monotoniczność
-- **Pochodne cząstkowe** – oblicza pochodne cząstkowe dla współrzędnej **0.3**.
+- **Pochodne cząstkowe** – oblicza pochodne cząstkowe dla współrzędnej **0.8**.
 - **Monotoniczność** – określa, czy funkcja jest rosnąca czy malejąca w danym zakresie.
 
 ### Wizualizacja wyników
