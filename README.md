@@ -13,11 +13,11 @@ Projekt zaliczeniowy z przedmiotu **Algorytmy numeryczne**. Skrypt wykonuje anal
 ### Statystyki
 - Oblicza **średnią**, **medianę** i **odchylenie standardowe** z podziałem na współrzędne **Y**.
 
-### Interpolacja dla współrzędnej **0.3**
+### Interpolacja dla współrzędnej **0.8**
 - **Metoda Lagrange'a** – interpolacja wielomianowa.
 - **Metoda trygonometryczna** – interpolacja za pomocą funkcji trygonometrycznych.
 
-### Aproksymacja dla współrzędnej **0.3**
+### Aproksymacja dla współrzędnej **0.8**
 - **Aproksymacja liniowa** – przybliżenie danych za pomocą funkcji liniowej.
 - **Aproksymacja kwadratowa** – przybliżenie danych za pomocą funkcji kwadratowej.
 
